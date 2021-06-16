@@ -2,7 +2,7 @@ Caio Antunes
 Heitor Vaz
 Tiago Rossi
 
-Requerientos:
+Requerimentos:
 
 python 3.6 
 tensorflow1.15
